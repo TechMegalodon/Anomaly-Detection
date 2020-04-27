@@ -22,22 +22,13 @@ series, detect anomalies, and create bands separating the “normal” data
 from the anomalous
 data.
 
-## Anomalize In 2 Minutes (YouTube)
-
-<a href="https://www.youtube.com/watch?v=Gk_HwjhlQJs" target="_blank"><img src="http://img.youtube.com/vi/Gk_HwjhlQJs/0.jpg"
-alt="Anomalize" width="100%" height="350"/></a>
-
-Check out our entire [Software Intro
-Series](https://www.youtube.com/watch?v=Gk_HwjhlQJs&list=PLo32uKohmrXsYNhpdwr15W143rX6uMAze)
-on YouTube\!
-
 ## Installation
 
 You can install the development version with `devtools` or the most
 recent CRAN version with `install.packages()`:
 
 ``` r
-# devtools::install_github("business-science/anomalize")
+# devtools::install_github("TechMegalodon/Anomaly-Detection")
 install.packages("anomalize")
 ```
 
