@@ -1,0 +1,12 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^README\.Rmd$
+^cran-comments\.md$
+^_pkgdown\.yml$
+^docs$
+^data-raw$
+^\.travis\.yml$
+^codecov\.yml$
+^doc$
+^Meta$
+^CRAN-RELEASE$
