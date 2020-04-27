@@ -1,9 +1,9 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-<!-- # anomalize -->
+<!-- # Anamaly-Detection -->
 
-# anomalize <img src="man/figures/anomalize-logo.png" width="147" height="170" align="right" />
+# Anamaly-Detection <img src="man/figures/anomalize-logo.png" width="147" height="170" align="right" />
 
 [![Travis build
 status](https://travis-ci.org/business-science/anomalize.svg?branch=master)](https://travis-ci.org/business-science/anomalize)
