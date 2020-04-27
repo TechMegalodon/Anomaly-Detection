@@ -168,4 +168,4 @@ Business Science offers two 1-hour courses on Anomaly Detection:
     Lab 17](https://university.business-science.io/p/learning-labs-pro)
     - Anomaly Detection with `H2O` Machine Learning
 
-# Source - https://github.com/business-science/anomalize
+Source - https://github.com/business-science/anomalize
